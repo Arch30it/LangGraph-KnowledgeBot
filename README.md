@@ -72,7 +72,8 @@ Load documents from specified URLs and Wikipedia queries.
 Split web-based documents into smaller chunks.
 Embed and store chunks in Cassandra.
 Retrieve document snippets or Wikipedia summaries based on the user query.
-Contributing
+
+## Contributing
 Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss your ideas.
 
 ## License
