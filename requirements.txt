@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+langchain-groq
+langchainhub
+chromadb
+langchain
+langgraph
+langchain_huggingface
+arxiv
+wikipedia
+cassio
+cassandra-driver
+ipykernel
